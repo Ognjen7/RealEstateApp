@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealEstateApp", "RealEstateApp\RealEstateApp.csproj", "{8A937DFC-1A92-4CAB-9F16-C3EB81FEC623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealEstatateAppTest", "RealEstatateAppTest\RealEstatateAppTest.csproj", "{608D50FF-BBFB-4043-93B2-7E216B1E7319}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A937DFC-1A92-4CAB-9F16-C3EB81FEC623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A937DFC-1A92-4CAB-9F16-C3EB81FEC623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A937DFC-1A92-4CAB-9F16-C3EB81FEC623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A937DFC-1A92-4CAB-9F16-C3EB81FEC623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608D50FF-BBFB-4043-93B2-7E216B1E7319}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608D50FF-BBFB-4043-93B2-7E216B1E7319}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608D50FF-BBFB-4043-93B2-7E216B1E7319}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608D50FF-BBFB-4043-93B2-7E216B1E7319}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B146B02-1A73-47F3-A933-DD0AD35A7DCF}
+	EndGlobalSection
+EndGlobal
